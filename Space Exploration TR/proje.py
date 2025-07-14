@@ -1,9 +1,6 @@
 """
-öğrenci adı soyadı: Muhammad Idham Bin Sirajuddin
-öğrenci numara: 2321041351
-
+Ogrenci : Muhammad Idham
 BLM22110 Final Proje
-
 """
 
 import random
